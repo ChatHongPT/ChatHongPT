@@ -1,16 +1,62 @@
-## Hi there 👋
+<p align="center">
+    Nice to meet you 👐 <br>
+    "Small changes come together to change the world" <br>
+    I'm Choi Hong-seok, a DevSecOps engineer who believes in that! <br><br>
+    Even if I learn one, I'm learning DevSecOps in a position to learn deeply.
+</p>
 
-<!--
-**ChatHongPT/ChatHongPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+    <Strong>⚒️Main Stack⚒️</Strong><br>
+</p>
+<br>
+<p align="center" display="inline-block">
+    <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br><br>
+<Strong>📧Email📧</Strong><br>suk924600@naver.com<br>
+
+</p>
+
+<br>
+
+## **::** Activity
+
+| 설명 | 활동기간 | 진행 | 포지션 | 관련링크 |
+| --- | --- | --- | --- | --- |
+| Whitehat School 2기 - 보안 | 2024.03 ~2024.09 | 종료 | 보안 | [WhiteHat School](https://whitehatschool.kr) |
+| CCA - 대학생 연합 보안 동아리 | 2023.04 ~ 진행중 | 진행중 | 백엔드 | [CCA 활동](https://www.instagram.com/cca_auth/) |
+| RAMS - 전북대학교 컴퓨터공학부 보안동아리 | 2023.03 ~ 진행중 | 진행중 | 홍보부장 | |
+| BCG LAB - 전북대학교 보안 연구실 학부연구생 | 2023.12 ~ 진행중 | 진행중 | 보안 | [전북대학교 BCG LAB](https://sites.google.com/view/bcg-lab/main) |
+| Naver Boost Course - Python |  2023.07 ~ 2023.08 | 종료 | Lead Boost |  |
+| Naver Boost Course - AI |  2023.06 ~ 2023.07 | 종료 | Boost |  |
+
+
+## **::** Competition
+
+| 단체명 | 활동기간 | 수상 | 회고 | github |
+| --- | --- | --- | --- | --- |
+| AI 활용 아이디어 경진 대회 | 2023.01 | - | - | - |
+| K-HACKATHON 11(Application) | 2023.11 | 🏆 우수상(한국콘텐츠학회장상) | http://www.k-hackathon.com/mobile/view.asp?idx=1149&boardcode=notice&page= | - |
+| Oasis Hackathon(Application) | 2024.08 | 🏆 최우수상(앱 부문) | https://www.wevity.com/index_university.php?c=find&s=_university&gbn=viewok&gp=5&ix=90056 | - |
+| WhiteHat School 2기 우수 프로젝트 | 2024.09 | 🏆 우수 프로젝트 선정 | https://github.com/DDoSMitigation | - |
+| 장애 플러스 기술 장애인 해커톤(Application) | 2024.11 | 🏆 장려상 | https://github.com/Pronunciation-recognition-AI | - |
+
+<br>
+
+<div align="center">
+    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=suk9246)](https://solved.ac/suk9246)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChatHongPT&layout=compact&theme=Dark)
+![ChatHongPT's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChatHongPT&show_icons=true&theme=dark)   
+</div>
