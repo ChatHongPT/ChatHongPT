@@ -58,5 +58,4 @@
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=suk9246)](https://solved.ac/suk9246)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChatHongPT&layout=compact&theme=Dark)
-![ChatHongPT's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChatHongPT&show_icons=true&theme=dark)   
 </div>
