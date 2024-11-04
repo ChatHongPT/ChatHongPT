@@ -1,3 +1,8 @@
+<h1 align="center">ChatHongPT(Hongseok Choi)</h1>
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ChatHongPT&row=1&column=6&margin-w=15)"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChatHongPT&theme=graywhite"/></p>
+
 <p align="center">
     Nice to meet you 👐 <br>
     "Small changes come together to change the world" <br>
