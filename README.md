@@ -9,8 +9,9 @@
     I'm Choi Hong-seok, a DevSecOps engineer who believes in that! <br><br>
     Even if I learn one, I'm learning DevSecOps in a position to learn deeply.
 </p>
-
-
+<div align="center">    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=suk9246)](https://solved.ac/suk9246)
+</div>
 <p align="center">
     <Strong>⚒️Main Stack⚒️</Strong><br>
 </p>
@@ -57,8 +58,3 @@
 | 장애 플러스 기술 장애인 해커톤(Application) | 2024.11 | 🏆 장려상 | https://github.com/Pronunciation-recognition-AI |
 
 <br>
-
-<div align="center">
-    
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=suk9246)](https://solved.ac/suk9246)
-</div>
