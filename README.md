@@ -1,4 +1,7 @@
-<h1 align="center">ChatHongPT(Hongseok Choi)</h1>
+<div align="center">
+
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ChatHongPT&fontSize=60&fontColor=ffffff&fontAlign=80)
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ChatHongPT&row=1&column=6&margin-w=15)"/></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChatHongPT&theme=graywhite"/></p>
@@ -6,6 +9,11 @@
 <div align="center">      
     <a href="https://solved.ac/suk9246">
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=suk9246" alt="Solved.ac Profile"/>
+    </a>
+</div>
+<div align="center"> 
+    <a href="https://github.com/yyoungl?tab=repositories">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyoungl&layout=compact&langs_count=8&card_width=300" />
     </a>
 </div>
 
@@ -64,3 +72,5 @@
 | 장애 플러스 기술 장애인 해커톤(Application) | 2024.11 | 🏆 장려상 | https://github.com/Pronunciation-recognition-AI |
 
 <br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChatHongPT&theme=react&bg_color=ffffff&color=454343)](https://github.com/yyoungl/github-readme-activity-graph&theme=react)
