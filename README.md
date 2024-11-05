@@ -50,6 +50,8 @@
 | --- | --- |
 | Linux Master Level 2 | 2022.12 | 
 | Network Administrator Level 2 | 2024.07 | 
+| KISA Security - Bug Hunting | 2024.08 | 
+
 
 
 ## **::** Activity
