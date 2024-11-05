@@ -63,7 +63,7 @@
 | Naver Boost Course - AI |  2023.06 ~ 2023.07 | 종료 | Boost | |
 | Naver Boost Course - Python |  2023.07 ~ 2023.08 | 종료 | Lead Boost |  
 | BCG LAB - 전북대학교 보안 연구실 학부연구생 | 2023.12 ~ 진행중 | 진행중 | 보안 | [전북대학교 BCG LAB](https://sites.google.com/view/bcg-lab/main) |
-| Whitehat School 2기 - 보안 | 2024.03 ~2024.09 | 종료 | 교육생 | [WhiteHat School](https://whitehatschool.kr) |
+| Whitehat School 2기 - Security | 2024.03 ~2024.09 | 종료 | 교육생 | [WhiteHat School](https://whitehatschool.kr) |
 
 
 
