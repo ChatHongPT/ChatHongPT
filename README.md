@@ -12,12 +12,6 @@
     </a>
 </div>
 </br>
-<div align="center"> 
-    <a href="https://github.com/yyoungl?tab=repositories">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyoungl&layout=compact&langs_count=8&card_width=300" />
-    </a>
-</div>
-</br>
 <p align="center">
     Nice to meet you 👐 <br>
     "Small changes come together to change the world" <br>
