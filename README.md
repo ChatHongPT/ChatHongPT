@@ -44,16 +44,25 @@
 
 <br>
 
+## **::** Certification
+
+| 자격증명 | 자격 취득일 |
+| --- | --- |
+| Linux Master Level 2 | 2022.12 | 
+| Network Administrator Level 2 | 2024.07 | 
+
+
 ## **::** Activity
 
 | 설명 | 활동기간 | 진행 | 포지션 | 관련링크 |
 | --- | --- | --- | --- | --- |
-| Whitehat School 2기 - 보안 | 2024.03 ~2024.09 | 종료 | 교육생 | [WhiteHat School](https://whitehatschool.kr) |
-| CCA - 대학생 연합 보안 동아리 | 2023.04 ~ 진행중 | 진행중 | 동아리원 | [CCA 활동](https://www.instagram.com/cca_auth/) |
-| RAMS - 전북대학교 컴퓨터공학부 보안동아리 | 2023.03 ~ 진행중 | 진행중 | 홍보부장 | |
 | BCG LAB - 전북대학교 보안 연구실 학부연구생 | 2023.12 ~ 진행중 | 진행중 | 보안 | [전북대학교 BCG LAB](https://sites.google.com/view/bcg-lab/main) |
-| Naver Boost Course - Python |  2023.07 ~ 2023.08 | 종료 | Lead Boost |  |
+| RAMS - 전북대학교 컴퓨터공학부 보안동아리 | 2023.03 ~ 진행중 | 진행중 | 홍보부장 | |
+| CCA - 대학생 연합 보안 동아리 | 2023.04 ~ 진행중 | 진행중 | 동아리원 | [CCA 활동](https://www.instagram.com/cca_auth/) |
 | Naver Boost Course - AI |  2023.06 ~ 2023.07 | 종료 | Boost |  |
+| Naver Boost Course - Python |  2023.07 ~ 2023.08 | 종료 | Lead Boost |  |
+| Whitehat School 2기 - 보안 | 2024.03 ~2024.09 | 종료 | 교육생 | [WhiteHat School](https://whitehatschool.kr) |
+
 
 
 ## **::** Competition
