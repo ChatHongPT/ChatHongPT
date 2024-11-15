@@ -30,8 +30,8 @@
     <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white">
   
 </p>
 
