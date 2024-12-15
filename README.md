@@ -38,7 +38,33 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-b원 | |
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin">
+
+## 💿 OS 💿
+<img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=Kali Linux&logoColor=black" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Mac_OS-999999?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+<br><br>
+<p align="center">
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br><br>
+<Strong>📧Email📧</Strong><br>suk924600@naver.com<br>
+</p>
+<br>
+
+## **::** Certification
+| 자격증명 | 자격 취득일 |
+| --- | --- |
+| Linux Master Level 2 | 2022.12 | 
+| Network Administrator Level 2 | 2024.07 | 
+| KISA Security - Bug Hunting | 2024.08 | 
+
+## **::** Activity
+| 설명 | 활동기간 | 진행 | 포지션 | 관련링크 |
+| --- | --- | --- | --- | --- |
+| RAMS - 전북대학교 컴퓨터공학부 보안동아리 | 2023.03 ~ 진행중 | 진행중 | 동아리원 | |
 | CCA - 대학생 연합 보안 동아리 | 2023.04 ~ 진행중 | 진행중 | 동아리원 | [CCA 활동](https://www.instagram.com/cca_auth/) |
 | Naver Boost Course - AI |  2023.06 ~ 2023.07 | 종료 | Boost | |
 | Naver Boost Course - Python |  2023.07 ~ 2023.08 | 종료 | Lead Boost |  
