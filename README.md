@@ -15,7 +15,7 @@
 <p align="center">
     Nice to meet you 👐 <br>
     "Small changes come together to change the world" <br>
-    I'm Choi Hong-seok, a DevSecOps engineer who believes in that! <br>
+    I'm Hong-seok Choi, a DevSecOps engineer who believes in that! <br><br>
     Even if I learn one, I'm learning DevSecOps in a position to learn deeply.
 </p>
 
