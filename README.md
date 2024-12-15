@@ -79,13 +79,13 @@
 
 ## **::** Competition
 
-| 단체명 | 활동기간 | 수상 | 회고 | 
-| --- | --- | --- | --- |
-| AI 활용 아이디어 경진 대회 | 2023.01 | 🏆 대상 | - | - |
-| K-HACKATHON 11(Application) | 2023.11 | 🏆 우수상(한국콘텐츠학회장상) | http://www.k-hackathon.com/mobile/view.asp?idx=1149&boardcode=notice&page= | 
-| Oasis Hackathon(Application) | 2024.08 | 🏆 최우수상(앱 부문) | https://www.wevity.com/index_university.php?c=find&s=_university&gbn=viewok&gp=5&ix=90056 |
-| WhiteHat School 2기 우수 프로젝트 | 2024.09 | 🏆 한국정보기술연구원장상 | https://github.com/DDoSMitigation |
-| 장애 플러스 기술 장애인 해커톤(Application) | 2024.11 | 🏆 장려상 | https://github.com/Pronunciation-recognition-AI |
+| 단체명 | 활동기간 | 수상 | 
+| --- | --- | --- |
+| AI 활용 아이디어 경진 대회 | 2023.01 | 🏆 대상 | 
+| K-HACKATHON 11(Application) | 2023.11 | 🏆 우수상(한국콘텐츠학회장상) |
+| Oasis Hackathon(Application) | 2024.08 | 🏆 최우수상(앱 부문) | 
+| WhiteHat School 2기 우수 프로젝트 | 2024.09 | 🏆 한국정보기술연구원장상 |
+| 장애 플러스 기술 장애인 해커톤(Application) | 2024.11 | 🏆 장려상 | 
 
 <br>
 
