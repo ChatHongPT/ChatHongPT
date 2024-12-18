@@ -4,7 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ChatHongPT&fontSize=60&fontColor=ffffff&fontAlign=80)
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ChatHongPT&row=1&column=6&margin-w=15)"/></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChatHongPT&theme=graywhite"/></p>
 
 <div align="center">      
     <a href="https://solved.ac/suk9246">
