@@ -68,8 +68,10 @@
 | CCA - 대학생 연합 보안 동아리 | 2023.04 ~ 진행중 | 진행중 | 동아리원 | 
 | Naver Boost Course - AI |  2023.06 ~ 2023.07 | 종료 | Boost | |
 | Naver Boost Course - Python |  2023.07 ~ 2023.08 | 종료 | Lead Boost |  
-| BCG LAB - 전북대학교 보안 연구실 학부연구생 | 2023.12 ~ 진행중 | 진행중 | 보안 |
+| BCG LAB(Security LAB) | 2023.12 ~ 2024.12 | 종료 | 학부연구생 |
 | Whitehat School 2기 - Security | 2024.03 ~2024.09 | 종료 | 교육생 |
+| MAC LAB(AI LAB) | 2024.12 ~ 진행중 | 진행중 | 학부연구생 |
+
 
 ## **::** Thesis
 | 논문명 | 학회 |
