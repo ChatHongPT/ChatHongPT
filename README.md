@@ -12,6 +12,10 @@
     </a>
 </div>
 </br>
+
+[💼 HongSeokCHOI cv](https://github.com/user-attachments/files/18388315/HongSeokCHOI.cv.pdf)
+
+
 <p align="center">
     Nice to meet you 👐 <br>
     "Small changes come together to change the world" <br>
