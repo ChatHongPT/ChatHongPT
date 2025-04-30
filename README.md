@@ -53,7 +53,7 @@
 | KISA Security - Bug Hunting | 2024.08 | 
 
 ### **::** Thesis
-| the title of the thesis | society, academy |
+| the title of the thesis | society |
 | --- | --- |
 | How to respond to high-capacity DDoS attacks using eBPF/XDP technology in low-spec environments | CISC-S'24 |
 
