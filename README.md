@@ -33,7 +33,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 <br/>
 
-### 🛠 &nbsp;Tools & Platforms
+### ⚙ &nbsp;Tools & Platforms
 ![kubernetes](https://img.shields.io/badge/-kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)&nbsp;
 ![argo](https://img.shields.io/badge/-argo-05122A?style=flat&logo=argo)&nbsp;
@@ -46,28 +46,28 @@
 
 
 ### **::** Certification
-| 자격증명 | 자격 취득일 |
+| Certificate of qualification | Date of qualification acquisition |
 | --- | --- |
 | Linux Master Level 2 | 2022.12 | 
 | Network Administrator Level 2 | 2024.07 | 
 | KISA Security - Bug Hunting | 2024.08 | 
 
 ### **::** Thesis
-| 논문명 | 학회 |
+| the title of the thesis | society, academy |
 | --- | --- |
-| 저사양 환경에서 eBPF/XDP 기술을 이용한 대용량 DDoS 공격 대응 방안 | 정보보호학회 |
+| How to respond to high-capacity DDoS attacks using eBPF/XDP technology in low-spec environments | CISC-S'24 |
 
 
 ### **::** Competition
 
-| 단체명 | 활동기간 | 수상 | 
+| Group name | Period of activity | Award performance | 
 | --- | --- | --- |
-| AI 활용 아이디어 경진 대회 | 2023.01 | 🏆 대상 | 
-| K-HACKATHON 11(Application) | 2023.11 | 🏆 우수상(한국콘텐츠학회장상) |
-| Oasis Hackathon(Application) | 2024.08 | 🏆 최우수상(앱 부문) | 
-| WhiteHat School 2기 우수 프로젝트 | 2024.09 | 🏆 한국정보기술연구원장상 |
-| 장애 플러스 기술 장애인 해커톤(Application) | 2024.11 | 🏆 장려상 | 
-| [전북대학교] 캡스톤 디자인 경진대회 | 2024.12 | 🏆 대상 | 
+| Jeju AI Idea Competition | 2023.01 | 🏆 Grand Prize | 
+| K-HACKATHON 11(Application) | 2023.11 | 🏆 Excellence Award (President of the Korean Content Association) |
+| Oasis Hackathon(Application) | 2024.08 | 🏆 Best award | 
+| Outstanding Project | 2024.09 | 🏆 Korea Information Technology Research Institute Award |
+| Disability Plus Technology Disabled Hackathon (Application) | 2024.11 | 🏆 participation prize | 
+| [Jeonbuk National University] Capstone Design Competition | 2024.12 | 🏆 Grand Prize | 
 
 <br>
 
