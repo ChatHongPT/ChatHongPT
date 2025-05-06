@@ -25,8 +25,6 @@
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![FastApi](https://img.shields.io/badge/-fastapi-05122A?style=flat&logo=fastapi&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![c](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
 ![Nextjs](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs)&nbsp;
@@ -41,8 +39,6 @@
 ![amazonwebservices](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
-![harbor](https://img.shields.io/badge/-harbor-05122A?style=flat&logo=harbor)&nbsp;
-![gitlab](https://img.shields.io/badge/-gitlab-05122A?style=flat&logo=gitlab)&nbsp;
 
 
 ### **::** Certification
