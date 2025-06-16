@@ -48,8 +48,8 @@
 | Network Administrator Level 2 | 2024.07 | 
 | KISA Security - Bug Hunting | 2024.08 | 
 
-### **::** Thesis
-| the title of the thesis | society |
+### **::** A conference journal
+| the title of the conference journal | society |
 | --- | --- |
 | How to respond to high-capacity DDoS attacks using eBPF/XDP technology in low-spec environments | CISC-S'24 |
 
