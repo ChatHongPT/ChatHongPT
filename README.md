@@ -58,12 +58,12 @@
 
 | Group name | Period of activity | Award performance | 
 | --- | --- | --- |
-| Jeju AI Idea Competition | 2023.01 | 🏆 Grand Prize | 
-| K-HACKATHON 11(Application) | 2023.11 | 🏆 Excellence Award (President of the Korean Content Association) |
-| Oasis Hackathon(Application) | 2024.08 | 🏆 Best award | 
-| Outstanding Project | 2024.09 | 🏆 Korea Information Technology Research Institute Award |
-| Disability Plus Technology Disabled Hackathon (Application) | 2024.11 | 🏆 participation prize | 
-| [Jeonbuk National University] Capstone Design Competition | 2024.12 | 🏆 Grand Prize | 
+| Jeju AI Idea Competition | 2023.01 | 🏆 Grand Prize(1st) | 
+| K-HACKATHON 11(Application) | 2023.11 | 🏆 Excellence Award (President of the Korean Content Association) (3rd) |
+| Oasis Hackathon(Application) | 2024.08 | 🏆 Best award (2nd) | 
+| Outstanding Project | 2024.09 | 🏆 Korea Information Technology Research Institute Award (1st) |
+| Disability Plus Technology Disabled Hackathon (Application) | 2024.11 | 🏆 participation prize (4th) | 
+| [Jeonbuk National University] Capstone Design Competition | 2024.12 | 🏆 Grand Prize (1st) | 
 
 <br>
 
