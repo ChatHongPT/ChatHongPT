@@ -53,7 +53,8 @@
 | WooRI FISA Cloud Engineering | 2025.07 |
 
 
-### **::** 국내 저널
+### **::** A domestic journal
+
 | the title of the conference journal | society |
 | --- | --- |
 | How to respond to high-capacity DDoS attacks using eBPF/XDP technology in low-spec environments | CISC-S'24 |
