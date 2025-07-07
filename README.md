@@ -45,10 +45,15 @@
 | Certificate of qualification | Date of qualification acquisition |
 | --- | --- |
 | Linux Master Level 2 | 2022.12 | 
+| Naver Boost Course Python, AI | 2023.07 |
 | Network Administrator Level 2 | 2024.07 | 
+| WhiteHat School 2nd Completion | 2024.09 | 
 | KISA Security - Bug Hunting | 2024.08 | 
+| LG AIMERS 7th | 2024.09 |
+| WooRI FISA Cloud Engineering | 2025.07 |
 
-### **::** A conference journal
+
+### **::** 국내 저널
 | the title of the conference journal | society |
 | --- | --- |
 | How to respond to high-capacity DDoS attacks using eBPF/XDP technology in low-spec environments | CISC-S'24 |
@@ -58,12 +63,15 @@
 
 | Group name | Period of activity | Award performance | 
 | --- | --- | --- |
-| Jeju AI Idea Competition | 2023.01 | 🏆 Grand Prize(1st) | 
-| K-HACKATHON 11(Application) | 2023.11 | 🏆 Excellence Award (President of the Korean Content Association) (3rd) |
-| Oasis Hackathon(Application) | 2024.08 | 🏆 Best award (2nd) | 
-| Outstanding Project | 2024.09 | 🏆 Korea Information Technology Research Institute Award (1st) |
-| Disability Plus Technology Disabled Hackathon (Application) | 2024.11 | 🏆 participation prize (4th) | 
-| [Jeonbuk National University] Capstone Design Competition | 2024.12 | 🏆 Grand Prize (1st) | 
+| Jeju AI Idea Competition | 2023.01 | 🏆 대상 (1st) | 
+| K-HACKATHON 11(Application) | 2023.11 | 🏆 한국콘텐츠협회장상 (3rd) |
+| Oasis Hackathon(Application) | 2024.08 | 🏆 광주문화산업진흥원장상 (2nd) | 
+| Outstanding Project | 2024.09 | 🏆 한국정보기술연구원장상 (1st) |
+| [한국장애인재단] 장애인 분야 해커톤 대회(장애플러스기술) (Application) | 2024.11 | 🏆 장려상 (4th) | 
+| [Jeonbuk National University] 캡스톤 경진 대회 | 2024.12 | 🏆 대상 (1st) | 
+| [Hyundai AutoEver] 배리어프리 앱 개발 콘테스트 | 2025.07 ~ 진행중 | 🔁 개발 지원팀 선정 |
+
+
 
 <br>
 
