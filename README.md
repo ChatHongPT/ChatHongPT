@@ -19,26 +19,33 @@
 ✔️ &nbsp;Aim for a life where you study skills consistently, share knowledge, and grow together.\
 ✔️ &nbsp; I'm also interested in network/cloud/container orchestration.
 
-### 🛠 &nbsp;Development Skills
+### 🛠 &nbsp;Tech Stack
+
+![kubernetes](https://img.shields.io/badge/-kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)&nbsp;
+![argo](https://img.shields.io/badge/-argo-05122A?style=flat&logo=argo)&nbsp;
+![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
+
+<br/>
+
+### ☁️ &nbsp; Cloud
+
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+### 💻 &nbsp; OS
+
+![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
+
+### ⚔️ &nbsp; Development
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![c](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
 ![Nextjs](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-<br/>
-
-### ⚙ &nbsp;Tools & Platforms
-![kubernetes](https://img.shields.io/badge/-kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
-![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)&nbsp;
-![argo](https://img.shields.io/badge/-argo-05122A?style=flat&logo=argo)&nbsp;
-![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
-![amazonwebservices](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-![linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
 
 
 ### **::** Certification
