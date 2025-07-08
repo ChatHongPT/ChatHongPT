@@ -25,6 +25,13 @@
 ![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)&nbsp;
 ![argo](https://img.shields.io/badge/-argo-05122A?style=flat&logo=argo)&nbsp;
 ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![c](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
+![Nextjs](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs)&nbsp;
 
 ### ☁️ &nbsp; Cloud
 
@@ -34,17 +41,6 @@
 
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
-
-### ⚔️ &nbsp; Development
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![c](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
-![Nextjs](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs)&nbsp;
-
 
 ### **::** Certification
 | Certificate of qualification | Date of qualification acquisition |
