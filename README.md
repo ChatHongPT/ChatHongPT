@@ -69,7 +69,7 @@
 | K-HACKATHON 11(Application) | 2023.11 | 🏆 한국콘텐츠협회장상 (3rd) |
 | Oasis Hackathon(Application) | 2024.08 | 🏆 광주문화산업진흥원장상 (2nd) | 
 | Outstanding Project | 2024.09 | 🏆 한국정보기술연구원장상 (1st) |
-| [한국장애인재단] 장애인 분야 해커톤 대회(장애플러스기술) (Application) | 2024.11 | 🏆 장려상 (4th) | 
+| [한국장애인재단] 장애인 분야 해커톤 대회(장애플러스기술) (Application) | 2024.11 | 🏆 한국장애인재단 이사장상 (4th) | 
 | [Jeonbuk National University] 캡스톤 경진 대회 | 2024.12 | 🏆 대상 (1st) | 
 | [Hyundai AutoEver] 배리어프리 앱 개발 콘테스트 | 2025.07 ~ 진행중 | 🔁 개발 지원팀 선정 |
 
