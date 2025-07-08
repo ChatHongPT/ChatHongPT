@@ -26,8 +26,6 @@
 ![argo](https://img.shields.io/badge/-argo-05122A?style=flat&logo=argo)&nbsp;
 ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
 
-<br/>
-
 ### ☁️ &nbsp; Cloud
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
