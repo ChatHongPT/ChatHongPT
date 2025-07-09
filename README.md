@@ -19,28 +19,59 @@
 ✔️ &nbsp;Aim for a life where you study skills consistently, share knowledge, and grow together.\
 ✔️ &nbsp; I'm also interested in network/cloud/container orchestration.
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Language
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![c](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+
+### 🎨 &nbsp;Frontend
+
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+
+### ⚙️ &nbsp;Backend
+
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Nextjs](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+
+### 💾 &nbsp;Database
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
+
+### ☁️ &nbsp;Cloud
+
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+### 💻 &nbsp;OS
+
+![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
+
+### ☸️ &nbsp;DevOps
 
 ![kubernetes](https://img.shields.io/badge/-kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)&nbsp;
 ![argo](https://img.shields.io/badge/-argo-05122A?style=flat&logo=argo)&nbsp;
 ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![c](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
-![Nextjs](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs)&nbsp;
 
-### ☁️ &nbsp; Cloud
+### 🧩 &nbsp;Library · Framework
 
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Grounding DINO](https://img.shields.io/badge/-Grounding%20DINO-05122A?style=flat&logo=python)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
+![PaddleOCR](https://img.shields.io/badge/-PaddleOCR-05122A?style=flat&logo=paddlepaddle)&nbsp;
+![NaverOCR](https://img.shields.io/badge/-NaverOCR-05122A?style=flat&logo=naver)&nbsp;
 
-### 💻 &nbsp; OS
-
-![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-![linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
 
 ### **::** Certification
 | Certificate of qualification | Date of qualification acquisition |
