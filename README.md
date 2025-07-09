@@ -79,7 +79,7 @@
 | Linux Master Level 2 | 2022.12 | 
 | Naver Boost Course Python, AI | 2023.07 |
 | Network Administrator Level 2 | 2024.07 | 
-| WhiteHat School 2nd Completion | 2024.09 | 
+| WhiteHat School 2nd | 2024.09 | 
 | KISA Security - Bug Hunting | 2024.08 | 
 | LG Aimers 7th | 2024.09 |
 | WooRI FISA Cloud Engineering | 2025.07 |
