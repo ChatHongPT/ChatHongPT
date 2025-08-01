@@ -38,8 +38,8 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Nextjs](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
 
 ### 💾 &nbsp;Database
 
@@ -58,10 +58,15 @@
 
 ### ☸️ &nbsp;DevOps
 
-![kubernetes](https://img.shields.io/badge/-kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
-![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)&nbsp;
-![argo](https://img.shields.io/badge/-argo-05122A?style=flat&logo=argo)&nbsp;
-![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
+![kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![argo](https://img.shields.io/badge/-Argo-05122A?style=flat&logo=argo)&nbsp;
+![jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
+![nginx](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx)&nbsp;
+![kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apachekafka)&nbsp;
+![sonarqube](https://img.shields.io/badge/-SonarQube-05122A?style=flat&logo=sonarqube)&nbsp;
+![grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
+![prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
 
 ### 🧩 &nbsp;Library · Framework
 
