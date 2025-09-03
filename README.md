@@ -86,6 +86,8 @@
 | KISA Security - Bug Hunting | 2024.08 | 
 | LG Aimers 7th | 2024.09 |
 | WooRI FISA Cloud Engineering | 2025.07 |
+| ADSP | 2025.09 | 
+
 
 
 ### **::** A domestic journal
