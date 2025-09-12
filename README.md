@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="left">
 
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ChatHongPT&fontSize=60&fontColor=ffffff&fontAlign=80)
@@ -13,74 +13,34 @@
 </div>
 </br>
 
+## 🐾 About Me  
 [💼 HongSeokCHOI cv](https://github.com/user-attachments/files/18388315/HongSeokCHOI.cv.pdf)
 
-✔️ &nbsp;I'm very interested in services that make the world good.\
-✔️ &nbsp;Aim for a life where you study skills consistently, share knowledge, and grow together.\
-✔️ &nbsp; I'm also interested in network/cloud/container orchestration.
+- 🌐 Passionate about **network engineering**: designing and managing scalable, reliable network systems.  
+- ☸️ Interested in **container orchestration**: Kubernetes, Docker, and cloud-native infrastructure.  
+- 💻 Dedicated to **software development**: building backend services, APIs, and automation tools.  
+- 🎓 Currently pursuing a B.S. in IT Engineering at Jeonbuk National University (Mar 2020 – Feb 2026 expected).  
 
-### 🛠 &nbsp;Language
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![c](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+## 🛠 Tech Skills
 
-### 🎨 &nbsp;Frontend
-
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-
-### ⚙️ &nbsp;Backend
-
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Nextjs](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
-
-### 💾 &nbsp;Database
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
-
-### ☁️ &nbsp;Cloud
-
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-### 💻 &nbsp;OS
-
-![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-![linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
-
-### ☸️ &nbsp;DevOps
-
-![kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
-![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![argo](https://img.shields.io/badge/-Argo-05122A?style=flat&logo=argo)&nbsp;
-![jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
-![nginx](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx)&nbsp;
-![kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apachekafka)&nbsp;
-![sonarqube](https://img.shields.io/badge/-SonarQube-05122A?style=flat&logo=sonarqube)&nbsp;
-![grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
-![prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
-
-### 🧩 &nbsp;Library · Framework
-
-![Grounding DINO](https://img.shields.io/badge/-Grounding%20DINO-05122A?style=flat&logo=python)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
-![PaddleOCR](https://img.shields.io/badge/-PaddleOCR-05122A?style=flat&logo=paddlepaddle)&nbsp;
-![NaverOCR](https://img.shields.io/badge/-NaverOCR-05122A?style=flat&logo=naver)&nbsp;
-
+| Category        | Stack                                                                                   |
+|-----------------|-----------------------------------------------------------------------------------------|
+| **OS**          | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) |
+| **Languages**   | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) |
+| **Frontend**    | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
+| **Backend**     |![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) |
+| **Database**    | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Cloud · Infra** | ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white) ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-0078D4?logo=cisco&logoColor=white) |
+| **DevOps** |![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Argo](https://img.shields.io/badge/Argo-EF7B4D?logo=argo&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) |
+| **Library · Framework** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Grounding DINO](https://img.shields.io/badge/Grounding%20DINO-05122A?logo=python&logoColor=white) ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-005FFF?logo=paddlepaddle&logoColor=white) ![NaverOCR](https://img.shields.io/badge/NaverOCR-03C75A?logo=naver&logoColor=white) |
 
 ### **::** Certification
 | Certificate of qualification | Date of qualification acquisition |
 | --- | --- |
 | Linux Master Level 2 | 2022.12 | 
-| Naver Boost Course Python, AI | 2023.07 |
+| Naver Boost Course Python, AI Lead Booster | 2023.07 |
 | Network Administrator Level 2 | 2024.07 | 
 | WhiteHat School 2nd | 2024.09 | 
 | KISA Security - Bug Hunting | 2024.08 | 
@@ -108,8 +68,6 @@
 | [한국장애인재단] 장애인 분야 해커톤 대회(장애플러스기술) (Application) | 2024.11 | 🏆 한국장애인재단 이사장상 (4th) | 
 | [Jeonbuk National University] 캡스톤 경진 대회 | 2024.12 | 🏆 대상 (1st) | 
 | [Hyundai AutoEver] 배리어프리 앱 개발 콘테스트 | 2025.07 ~ 진행중 | 🔁 개발 지원팀 선정 |
-
-
 
 <br>
 
