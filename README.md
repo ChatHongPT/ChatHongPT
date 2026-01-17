@@ -14,7 +14,7 @@
 </br>
 
 ## 🐾 About Me  
-[💼 HongSeokCHOI cv](https://github.com/user-attachments/files/18388315/HongSeokCHOI.cv.pdf)
+[💼 HongSeokCHOI cv](https://www.figma.com/design/eAKMofpbJg3okGQVWKzah5/HongSeok-Choi-Portfolio?node-id=0-1&t=pIcxJqNiutJabiXe-1)
 
 - 🌐 Passionate about **network engineering**: designing and managing scalable, reliable network systems.  
 - ☸️ Interested in **container orchestration**: Kubernetes, Docker, and cloud-native infrastructure.  
