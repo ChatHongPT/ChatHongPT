@@ -19,8 +19,8 @@
 - 🌐 Passionate about **network engineering**: designing and managing scalable, reliable network systems.  
 - ☸️ Interested in **container orchestration**: Kubernetes, Docker, and cloud-native infrastructure.  
 - 💻 Dedicated to **software development**: building backend services, APIs, and automation tools.  
-- 🎓 Currently pursuing a B.S. in IT Engineering at Jeonbuk National University (Mar 2020 – Feb 2026 expected).  
-
+- 🎓 Currently pursuing a B.S. in IT Engineering at Jeonbuk National University (Mar 2020 – Feb 2026).
+- ✈️ Backend Developer at Eastar Jet (Platform Business Team), specializing in OTA API development for global travel agency integration and e-Agency system maintenance to ensure stable B2B reservation services.
 ---
 
 ## 🛠 Tech Skills
