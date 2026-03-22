@@ -47,6 +47,7 @@
 | LG Aimers 7th | 2024.09 |
 | WooRI FISA Cloud Engineering | 2025.07 |
 | ADsP | 2025.09 | 
+| AWS Certified Solutions Architect - Associate | 2026.02 | 
 
 
 
