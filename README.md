@@ -48,6 +48,8 @@
 | WooRI FISA Cloud Engineering | 2025.07 |
 | ADsP | 2025.09 | 
 | AWS Certified Solutions Architect - Associate | 2026.02 | 
+| HashiCorp Certified: Terraform Associate (004)| 2026.03 | 
+
 
 
 
